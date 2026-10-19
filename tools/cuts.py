@@ -13,6 +13,8 @@ FF = find_ffmpeg()
 
 
 def main():
+    if not FF:
+        raise SystemExit("ffmpeg not found")
     video = os.path.join(ROOT, "out", "pdoom_blender.mp4")
     if not os.path.exists(video):
         raise SystemExit("render the film first: python tools/assemble.py")
