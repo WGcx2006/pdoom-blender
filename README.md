@@ -14,7 +14,8 @@ this version is a Python scene toolkit for **Blender 5.2**, 22 plates, 4702 fram
 
 ## Watch
 
-- **[Full film — 1080p, with the song](https://github.com/WGcx2006/pdoom-blender/releases/latest)** (GitHub Release, ~172 MB)
+- **[Full film — 1080p, with the song](https://github.com/WGcx2006/pdoom-blender/releases/download/v1.0.0/pdoom-blender-1080p.mp4)** (172 MB)
+- **[540p preview](https://github.com/WGcx2006/pdoom-blender/releases/download/v1.0.0/pdoom-preview-540p.mp4)** (20 MB)
 - **[31 s silent highlight](docs/highlight.mp4)** (in this repository)
 - **[60-frame contact sheet](docs/contact-sheet.jpg)** and **[cut-boundary sheet](docs/cut-boundary-sheet.jpg)**
 

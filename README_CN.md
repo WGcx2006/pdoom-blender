@@ -13,7 +13,8 @@
 
 ## 观看
 
-- **[完整成片 1080p（含原曲）](https://github.com/WGcx2006/pdoom-blender/releases/latest)** — GitHub Release，约 172 MB
+- **[完整成片 1080p（含原曲）](https://github.com/WGcx2006/pdoom-blender/releases/download/v1.0.0/pdoom-blender-1080p.mp4)** — 172 MB
+- **[540p 预览](https://github.com/WGcx2006/pdoom-blender/releases/download/v1.0.0/pdoom-preview-540p.mp4)** — 20 MB
 - **[31 秒无声片段](docs/highlight.mp4)**
 - **[60 帧全片缩略图](docs/contact-sheet.jpg)**、**[转场边界检查图](docs/cut-boundary-sheet.jpg)**
 
