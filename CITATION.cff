@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or renders, please cite the repository and the original project."
+title: pdoom-blender
+type: software
+authors:
+  - family-names: WGcx2006
+    name: WGcx2006
+date-released: "2026-10-20"
+license: MIT
+url: "https://github.com/WGcx2006/pdoom-blender"
+references:
+  - type: software
+    title: "I'm Upping My P(doom) — code-rendered music video"
+    authors:
+      - name: mexicat
+    url: "https://github.com/mexicat/pdoom-video"
+    license: MIT

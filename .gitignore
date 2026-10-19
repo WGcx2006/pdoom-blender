@@ -1,0 +1,16 @@
+# rendered output
+out/
+# external source assets (song, fonts, timing data)
+pdoom-video/
+# local tools
+tools/bin/
+# python
+__pycache__/
+*.py[cod]
+.venv/
+# blender
+*.blend
+*.blend1
+# os
+.DS_Store
+Thumbs.db
