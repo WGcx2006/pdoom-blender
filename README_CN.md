@@ -1,5 +1,7 @@
 # P(DOOM) — Blender 复刻版音乐视频
 
+**[English](README.md) · [中文](README_CN.md)**
+
 **用 Blender 5.2 真实建模、打光、摄像机与 EEVEE 渲染的 2:36 音乐视频。**
 
 这是对 [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video)（TypeScript + three.js 的程序化 WebGL

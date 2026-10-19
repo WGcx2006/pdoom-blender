@@ -1,5 +1,7 @@
 # P(DOOM) — a Blender reconstruction
 
+**[English](README.md) · [中文](README_CN.md)**
+
 **A 2:36 music video rebuilt with real Blender modelling, lighting, cameras and EEVEE rendering.**
 
 This is an independent reconstruction of [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) —
